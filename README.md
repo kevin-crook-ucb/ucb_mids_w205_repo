@@ -16,6 +16,8 @@ Please join the channel **datasci-205** if you have not done so already.  Please
 
 Most instructors prefer a slack direct message to an email. Please check with your instructor as to their preference.
 
+Your instructor may also have a slack channel just for their sections.
+
 ## Schedule and Due Dates 
 
 All dates and times are in US Pacific time.
@@ -48,7 +50,7 @@ Current time for US time zones, including Pacific: https://time.gov
 * Week 5 - Pipelines and Clusters of Containers
   * Monday 1/31/2022 to Sunday 2/6/2022
   * Due: week 5 asynch assessment before synch class starts
-  * Due: project 1 at 11:59 pm Pacific
+  * Due: project 1 at 11:59 pm Pacific on the day of your scheduled section synch class meeting
 * Week 6 - Data Wrangling, Part I: Common File Format I/O
   * Monday 2/7/2022 to Sunday 2/13/2022
   * Due: week 6 asynch assessment before synch class starts
@@ -64,38 +66,41 @@ Current time for US time zones, including Pacific: https://time.gov
   * Reminder: project 2 is due in 1 week
 * Week 9 - NoSQL Graph Databases, Part II
   * Monday 2/28/2022 to Sunday 3/6/2022
-  * Due: week 9 asynch assessment before synch class starts. 
-  * Due: project 2 at 11:59 pm Pacific
+  * Due: week 9 asynch assessment before synch class starts
+  * Due: project 2 at 11:59 pm Pacific on the day of your scheduled section synch class meeting
 * Week 10 - NoSQL Key-Value Databases
   * Monday 3/7/2022 to Sunday 3/13/2022
-  * Due: week 10 asynch assessment before synch class starts. 
+  * Due: week 10 asynch assessment before synch class starts
   * Reminder: project 3 coding part is due in 4 weeks (counting spring break), 3 class weeks
   * Reminder: project 3 presentation part is due in 5 weeks (counting spring break), 4 class weeks
 * Week 11 - Web APIs, Part I
   * Monday 3/14/2022 to Sunday 3/18/2022
-  * Due: week 11 asynch assessment before synch class starts. 
+  * Due: week 11 asynch assessment before synch class starts
   * Reminder: project 3 coding part is due in 3 weeks (counting spring break), 2 class weeks
   * Reminder: project 3 presentation part is due in 4 weeks (counting spring break), 3 class weeks
 * Spring Break 
   * Monday 3/21/2022 to Sunday 3/27/2022
   * No classes
   * No office hours
+  * Note that instructors have the option of using Monday 3/21/2022 as a make up date for one of the holidays.  Most instructors will typically make up the holiday class in the same week to keep all sections in synch and not use Monday 3/21/22, however, please check with your instructor.
 * Week 12 - Web APIs, Part II
   * Monday 3/28/2022 to Sunday 4/3/2022
-  * Due: week 12 asynch assessment before synch class starts. 
+  * Due: week 12 asynch assessment before synch class starts
   * Reminder: project 3 coding part is due in 1 week
   * Reminder: project 3 presentation part is due in 2 weeks
 * Week 13 - Enterprise Message Queues, Data Lakes, and Serverless SQL
   * Monday 4/4/2022 to Sunday 4/10/2022
-  * Due: week 13 asynch assessment before synch class starts. 
-  * Due: project 3 coding part at 11:59 pm Pacific 
+  * Due: week 13 asynch assessment before synch class starts
+  * Due: project 3 coding part at 11:59 pm Pacific on the day of your scheduled section synch class meeting
   * Reminder: project 3 presentation part is due in 2 weeks
 * Week 14 - Business Intelligence and Data Warehousing
   * Monday 4/11/2022 to Saturday 4/16/2022
-  * Due: week 14 asynch assessment before synch class starts. 
+  * Due: week 14 asynch assessment before synch class starts 
   * Due: project 3 in class presentations
 * Last Day of Classes
   * Saturday, April 16, 2022
+* Semester Letter Grades posted to Cal Central
+  * Thursday, April 21, 2022 - your instructor may post them sooner, but no later
 
 
 ## Office Hours
@@ -118,7 +123,7 @@ TA office hours will be pooled.  All sections can attend TA office hours.
 |Project 2 Acknowledge Feedback|1%|
 |Project 3 Coding|15%|
 |Project 3 Presentation|15%|
-|Total|100%|
+|**Total**|**100%**|
 
 ## Grading Scale
 
@@ -126,8 +131,7 @@ Rounded to 2 decimal places:
 
 |From|To|Grade|
 |---|---|---|
-|97.00|100|A+|
-|93.00|96.99|A|
+|93.00|100|A|
 |90.00|92.99|A-|
 |87.00|89.99|B+|
 |83.00|86.99|B|
@@ -137,6 +141,13 @@ Rounded to 2 decimal places:
 |70.00|72.99|C-|
 |0.00|69.99|F|
 
+Instructors may award a grade of A+ in rare and exceptional cases.  There is no set numeric range for A+.  Even a score of 100 does not guarantee an A+.   A and A+ count the same towards GPA.  Typically it will be limited to 1 or 2 students per section.  Instructors have full discretion to award an A+.  Examples of criteria instructors may consider include, but are not limited to:
+* Students who always came to class prepared by working through the asynch, including all labs, prior to class.
+* Students who attended classes, were on time, stayed until the end, had their camera on, etc.
+* Students who were exceptional in their class participation.  They were always very active in breakout sessions, often taking a leadership role.  During whole class discussions after breakouts, they frequently contributed, often very insightful comments.
+* Students who started early on projects, as evidenced by early and frequent commits to their GitHub repo.  They didn't wait until the last week to start a multi-week project.
+* Students with projects that stood out above and beyond other projects, typically with all objective points earned and very high subjective points awarded.
+* Students who took a very active role in the group project, typically a leadership position, as evidenced by an ability to work through and resolve any group conflicts without instructor involvement. 
 
 ## Attendance and Participation
 
@@ -200,3 +211,13 @@ Right now, we have not been able to find suitable readings for this course.  The
 We have tried using O'Reilly technical books, but have faced some issues there as well.  The Berkeley library only subscribes to the lowest level of O'Reilly and most of the readings would be from books that are behind a paywall.  Since we cover 10 or more different technologies, it would result in students buying 10 books at $40 to $60 each.  Also, it's not practical to have students read 10 or more technical books in a 14 week period.  We have tried pulling relevant chapters out, but it's really hard to understand a chapter pulled out of book as they will often refer to knowledge presented in earlier chapters.  
 
 We are currently exploring industry white papers to see if there are any suitable papers there.
+
+## Cloud
+
+In w205, we will be using Amazon Web Services (AWS) for all labs and projects.
+
+There is actually a master plan in MIDS to get students exposure to different cloud vendors. The idea is to get students some exposure to multiple cloud vendors, as job listings often mention different cloud vendors.  
+
+One advantage of using AWS over the other cloud vendors for w205 is that AWS has Amazon Machine Images (AMIs).  AMIs allow the course creator to do several hours of setup and  configuring the AMI, which saves students several pages of setup instructions and several hours of setup time in creating a Virtual Machine (VM).  Since w205 is the first cloud experience for most students, AMI's make the initial experience much easier than the other cloud vendors.
+
+If you want, you are welcome to repeat the labs in another cloud vendor to gain experience with another cloud vendor.  However, you would be pretty much on your own with creating a VM, installing and configuring Docker, creating all necessary networking, configuring virtual routers, configuring Linux kernel parameters, SSH keys, etc.  Instructors and TAs will not have time to support other cloud vendors in addition to AWS.

@@ -153,9 +153,9 @@ Instructors may award a grade of A+ in rare and exceptional cases.  There is no 
 
 Attendance and participation are 5% of your semester grade.
 
-Attendance and participation are self reported under the UC Berkeley Honor Code using a Google Form
+Attendance and participation are self reported under the UC Berkeley Honor Code using a Google Form.
 
-**Spring 2021 Form (must be logged into Berkeley account):**  TBD
+**Spring 2022 Form (must be logged into Berkeley account):**  [Spring 2022 Attendance and Participation](https://docs.google.com/forms/d/e/1FAIpQLSfQCpZ9HIfHXHyxjfrJM-m8BRaa8-uXthUt3xmBYq5AW3EuXQ/viewform?usp=pp_url&entry.1892426831=Yes&entry.527750161=I+came+to+class+on+time&entry.527750161=I+stayed+until+the+instructor+dismissed+class+(or+if+it+ran+over,+until+the+official+end+of+class+time)&entry.527750161=I+had+my+camera+on+at+least+90%25+of+the+time+(81+minutes+out+of+90+minutes)&entry.527750161=I+kept+my+microphone+on+mute+when+I+was+not+speaking+(except+for+breakout+rooms+where+it+is+fine+to+keep+microphone+on)&entry.527750161=I+actively+participated+in+my+breakout+rooms+during+breakouts&entry.527750161=I+spoke+at+least+once+during+whole+class+discussions&entry.527750161=I+did+not+monopolize+more+than+my+fair+share+of+class+time,+and+gave+others+a+chance+to+speak,+to+express+their+ideas+and+opinions,+and+to+ask+questions&entry.527750161=I+was+respectful+of+my+fellow+students+and+instructor)
 
 Attendance Rubrics:
 * Graded 1 to 100
@@ -221,3 +221,6 @@ There is actually a master plan in MIDS to get students exposure to different cl
 One advantage of using AWS over the other cloud vendors for w205 is that AWS has Amazon Machine Images (AMIs).  AMIs allow the course creator to do several hours of setup and  configuring the AMI, which saves students several pages of setup instructions and several hours of setup time in creating a Virtual Machine (VM).  Since w205 is the first cloud experience for most students, AMI's make the initial experience much easier than the other cloud vendors.
 
 If you want, you are welcome to repeat the labs in another cloud vendor to gain experience with another cloud vendor.  However, you would be pretty much on your own with creating a VM, installing and configuring Docker, creating all necessary networking, configuring virtual routers, configuring Linux kernel parameters, SSH keys, etc.  Instructors and TAs will not have time to support other cloud vendors in addition to AWS.
+
+Previously, our partner, 2U was able to secure AWS cloud credits and provide them to MIDS students.  2U has not been able to provide these credits since Summer of 2020.  Each semester we will request AWS credits, but there is no guarantee AWS will grant them or for what amount.  
+

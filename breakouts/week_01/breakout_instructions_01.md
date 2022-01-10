@@ -1,12 +1,12 @@
 # Instructions for Breakouts for Week 01
 
-## Breakout 1 - Learning how to learn is the best skill to have
+Several breakouts are provided each week. Generally there won't be time to get to all of them. Instructors will select which ones and in what order they would like to use for their class each week. Instructors may choose to do some breakouts at the whole class level instead of using breakout rooms. For breakouts that we don't get to in class, that you are interested in, you can always come to office hours and discuss with the instructor or TA.
+
+## Breakout 1 - Frustration in learning
 
 In the Asynch, we talked about how learing how to learn is the best skill to have.  
 
 In IT, we constantly have to learn new technologies to keep up.  This is especially true in Data Science and Data Engineering.  New technologies are constantly emerging.  So, it's crucial that we learn how to learn.
-
-**Frustration in learning**
 
 We also covered how a lot of students have an aversion to frustration in learning, and always see it as a bad thing. 
 
@@ -18,7 +18,8 @@ Think back to a time when you experienced frustration in learing a new, difficul
 
 Each student in the breakout should share try to share one experience with the breakout group.
 
-**You don't have to know everything about a technology to effectively use it**
+
+## Breakout 2 - You don't have to know everything about a technology to effectively use it
 
 While it's great to know as much as we can about a technology, you don't have to know everything about a technology to effectively use it.  In the Data Science and Data Engineering world, by the time you learn everything about a technology, the next big thing has often come, and you now know everything about something that is obsolete.  
 
@@ -26,7 +27,7 @@ It's often best to learn a lot about the fundamental, foundational concepts of a
 
 To demonstrate this point, each student should try a simple exercise.  Assuming everyone uses MS Word, probably on a daily basis (or MS Excel or MS PowerPoint or etc.) Flip though the tabs and estimate what percentage of features you have ever used.  Most will find that they have effectively used the software product on a daily basis for years, yet probably haven't used 10% of the features!
 
-**New technologies tend to come in phases**
+## Breakout 3 - New technologies tend to come in phases
 
 For example, let's consider the case of machine learning (ML).  When companies first started having data science groups and hiring data scientists, it wasn't a requirement that a data scientist know ML, it was more of a nice to have.  ML books where all heavy duty mathematics, written by PhD's for PhD's.  Eventually ML became more  assessible with books making the material available to non-PhDs.  Companies started asking for ML knowledge.  Today, it's typically a requirement that a data scientist know ML to get a job.
 
@@ -39,7 +40,7 @@ As a group, come up with the the risks, rewards, and expected frustration level 
 * At the midpoint, it's being used by 50% of data science shops.
 * After it has gone mainstream, when it's being used by almost all data science shops.
 
-## Breakout 2 - Data scientists working with data engineers
+## Breakout 4 - Data scientists working with data engineers
 
 In this scenario, the company has 2 separate groups with 2 separate managers:
 * Data Scientists
@@ -68,7 +69,7 @@ As a team come up with a list of lessons learned from this scenario:
 * In general, not specific to Bob, what should the data science manager do at this point to build a better working relationship with data engineering?
 * In general, not specific to Bob, what should the data engineering manager do at this point to build a better working relationship with data science?
 
-## Breakout 3 - Hiring the right mix of skills for a startup data science team
+## Breakout 5 - Hiring the right mix of skills for a startup data science team
 
 In this scenario, your breakout team is a team of temporary contract data scientists at a startup company that is building a data science team from the ground up.  You have been hired for 3 months to hire and assemble a core data science team of 3.
 

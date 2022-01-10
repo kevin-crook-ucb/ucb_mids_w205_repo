@@ -1,6 +1,8 @@
 # Instructions for Breakouts for Week 02
 
-## Breakout 1 - Backing up claims with data
+Several breakouts are provided each week.  Generally there won't be time to get to all of them. Instructors will select which ones and in what order they would like to use for their class each week.  Instructors may choose to do some breakouts at the whole class level instead of using breakout rooms.  For breakouts that we don't get to in class, that you are interested in, you can always come to office hours and discuss with the instructor or TA. 
+
+## Breakout 1 - Widely held beliefs that turned out not to be true
 
 Often, there are widely held, often long standing, beliefs that are not backed up by actual data.  Typically they come from anecdotal evidence, which are factual claims relying only on personal observation, collected in a casual or non-systematic manner. 
 
@@ -24,6 +26,12 @@ The second consequence was to revamp the rules for vacation travelers.  Such as 
 
 Can you think of other examples of widely held beliefs based on anecdotal evidence that turned out not to be true when people actually crunched the data?
 
+## Breakout 2 - Proposing a systematic review of a company's widely held beliefs
+
+Note: it is recommended that you do breakout 1 before this one.
+
+We have seen that widely held beliefs based on anecdotal evidence often turn out not to be true after all.
+
 There is a silver lining to this.  The case of someone gives you a lemon, make a lemonade.  This can be a great opportunity for a data scientist.
 
 Suppose you are working as a data scientist at a company.  One project you might propose is to make a comprehensive list of all the widely heald business facts at your company.  Try to sort them from the most impactful first.  Work down the list starting with most impactful. For each one, ask "how do we know this is true?"  Then see if the actual data confirms or denies.  If the data denies the assumed fact, then examine AI models, ML models, DL models, etc. that need to be changed.  Then examine any changes to business processes that you might propose to take advantage of the new found knowledge.
@@ -40,9 +48,7 @@ When preparing 2 minute elevator pitches, remember BBI and CCC (triple C):
   * Concise
   * Convincing
 
-For project 1, you will be asked to analyze a database of sales data and make recommendations to executives in the form of executive summaries, backed up by data in the form of tabular data and/or data visualizations.   For everything you propose, you will need to back it up with data.
-
-## Breakout 2 - Reading and understanding a data model to determine how to join tables
+## Breakout 3 - Reading and understanding a data model to determine how to join tables
 
 In this breakout your team will walk through the sales database data model (DM) in entity-relationship diagram (ERD) notation for the primary dataset.
 
@@ -71,7 +77,7 @@ Answer the following question:
 
 The idea is that everyone on your breakout team should feel very comfortable with how to join the tables in our database.  This is needed for project 1 and before we proceed with the remaining breakouts.
 
-## Breakout 3 - Joining tables in a secondary dataset to tables in a primary dataset
+## Breakout 4 - Joining tables in a secondary dataset to tables in a primary dataset
 
 Outside of AI, data science, business intellience, data analytics, etc., most database joins are strictly done using a primary dataset following defined relationships in the data model.  
 
@@ -94,9 +100,11 @@ We discussed two major problems than can occur when doing dangerous joins.
 * What problem can happen when there are rows in the primary table do not have corresponding rows in the secondary table?  
 * What problem can happen when their are rows in the primary table that have more than 1 corresponding row in the secondary table?
 
+## Breakout 5 - Discussing some common secondary datasets and how they can be useful
+
 Think of some other secondary datasets that can be useful in general.   Consider things like weather data, economic data, local demographic data, household data, traffic data, etc. Time permitting, you may want to take a look at https://catalog.data.gov/dataset and do some searches to get some more ideas.
 
-## Breakout 4 - Designing queries and data visualizations 
+## Breakout 6 - Designing queries and data visualizations 
 
 In this breakout you team will look at designing queries and data visualizations for some of the analytical questions from project 1.
 

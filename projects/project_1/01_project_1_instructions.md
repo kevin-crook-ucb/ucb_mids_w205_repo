@@ -236,11 +236,11 @@ git status
 Download the starter Jupyter Notebooks:
 ```
 curl -o project_1_1.ipynb https://raw.githubusercontent.com/kevin-crook-ucb/ucb_mids_w205_repo/main/projects/project_1/project_1_1.ipynb
-curl -o project_1_2.ipynb https://raw.githubusercontent.com/kevin-crook-ucb/ucb_mids_w205_repo/main/project_1/project_1_2.ipynb
-curl -o project_1_3.ipynb https://raw.githubusercontent.com/kevin-crook-ucb/ucb_mids_w205_repo/main/project_1/project_1_3.ipynb
-curl -o project_1_4.ipynb https://raw.githubusercontent.com/kevin-crook-ucb/ucb_mids_w205_repo/main/project_1/project_1_4.ipynb
-curl -o project_1_5.ipynb https://raw.githubusercontent.com/kevin-crook-ucb/ucb_mids_w205_repo/main/project_1/project_1_5.ipynb
-curl -o project_1_6.ipynb https://raw.githubusercontent.com/kevin-crook-ucb/ucb_mids_w205_repo/main/project_1/project_1_6.ipynb
+curl -o project_1_2.ipynb https://raw.githubusercontent.com/kevin-crook-ucb/ucb_mids_w205_repo/main/projects/project_1/project_1_2.ipynb
+curl -o project_1_3.ipynb https://raw.githubusercontent.com/kevin-crook-ucb/ucb_mids_w205_repo/main/projects/project_1/project_1_3.ipynb
+curl -o project_1_4.ipynb https://raw.githubusercontent.com/kevin-crook-ucb/ucb_mids_w205_repo/main/projects/project_1/project_1_4.ipynb
+curl -o project_1_5.ipynb https://raw.githubusercontent.com/kevin-crook-ucb/ucb_mids_w205_repo/main/projects/project_1/project_1_5.ipynb
+curl -o project_1_6.ipynb https://raw.githubusercontent.com/kevin-crook-ucb/ucb_mids_w205_repo/main/projects/project_1/project_1_6.ipynb
 
 ```
 

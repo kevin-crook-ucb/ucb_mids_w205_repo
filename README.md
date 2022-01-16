@@ -24,7 +24,7 @@ All dates and times are in US Pacific time.
 
 Current time for US time zones, including Pacific: https://time.gov
 
-### Spring 2021
+### Spring 2022
 
 * First Day of Classes
   * Monday 1/3/2022

@@ -36,7 +36,7 @@ Current time for US time zones, including Pacific: https://time.gov
   * Due: week 1 asynch assessment before synch class starts
   * Due: week 2 asynch assessment before synch class starts
   * Reminder: project 1 is due in 3 weeks
-* Last Day to Add or Drop 
+* Last Day to Add
   * Saturday, 1/15/20212
 * Week 3 - Linux CLI Refresher and GitHub gi CLI Refresher
   * Monday 1/17/2022 is a national holiday for Dr. Martin Luther King, Jr.'s birthday.  You do not have to makeup this class, however, your instructor may schedule a makeup class that you may want to attend or watch the video.
@@ -111,6 +111,33 @@ Instructors have the option to participate in pooled office hours where students
 
 TA office hours will be pooled.  All sections can attend TA office hours.
 
+## Office Hours Spring 2022 Schedule
+
+Note: Subject to change.  Please check the slack channel and/or the ISVC meeting schedule for any changes.  Office hours will not be held on holidays, nor during breaks.
+
+Monday
+* Crook (pooled) - 5:35 pm - 7:30 pm
+* Gupta - 5:30 pm - 6:30 pm
+
+Tuesday
+* Crook (pooled) - 5:35 pm - 7:30 pm
+
+Wednesday
+* Reid - 6:00 pm - 6:50 pm
+
+Thursday
+* Schioberg (pooled) - 8:05 pm - 10:00 pm
+
+Friday
+* Ad hoc - check ISVC
+
+Saturday
+* Ad hoc - check ISVC
+
+Sunday
+* De Sola (pooled) - 10:00 am - 11:00 am
+
+
 ## Grading
 
 |Item|Percentage|
@@ -171,6 +198,10 @@ Classes can be made up by:
 * By attending another section (with instructor approval)
 
 Participation Rubrics:
+* Maximum penalty per class meeting: -3 
+* Each item missing 
+  * With a reasonable explanation, no penalty
+  * Without a reasonable explanation, penalty -1
 * Come to class on time
 * Stay until the instructor dismisses class (or if it runs over, until the official end of class time)
 * Camera on at least 90% of class time (81 minutes out of 90 minutes)
@@ -179,7 +210,6 @@ Participation Rubrics:
 * Speak at least one during whole class discussions
 * Not monopolize more than your fair share of class time - give others a chance to speak, to express their ideas and opinions, and to ask questions
 * Be respectul of your fellow students and instructor
-* Each item missing for an attended class, -1 to a max of -3 per class
 
 ## Asynch Assessments
 
@@ -212,15 +242,6 @@ We have tried using O'Reilly technical books, but have faced some issues there a
 
 We are currently exploring industry white papers to see if there are any suitable papers there.
 
-## Cloud
+## FAQ and Troubleshooting Guides
 
-In w205, we will be using Amazon Web Services (AWS) for all labs and projects.
-
-There is actually a master plan in MIDS to get students exposure to different cloud vendors. The idea is to get students some exposure to multiple cloud vendors, as job listings often mention different cloud vendors.  
-
-One advantage of using AWS over the other cloud vendors for w205 is that AWS has Amazon Machine Images (AMIs).  AMIs allow the course creator to do several hours of setup and  configuring the AMI, which saves students several pages of setup instructions and several hours of setup time in creating a Virtual Machine (VM).  Since w205 is the first cloud experience for most students, AMI's make the initial experience much easier than the other cloud vendors.
-
-If you want, you are welcome to repeat the labs in another cloud vendor to gain experience with another cloud vendor.  However, you would be pretty much on your own with creating a VM, installing and configuring Docker, creating all necessary networking, configuring virtual routers, configuring Linux kernel parameters, SSH keys, etc.  Instructors and TAs will not have time to support other cloud vendors in addition to AWS.
-
-Previously, our partner, 2U was able to secure AWS cloud credits and provide them to MIDS students.  2U has not been able to provide these credits since Summer of 2020.  Each semester we will request AWS credits, but there is no guarantee AWS will grant them or for what amount.  
-
+Please see the directory frequently_asked_questions and the directory troubleshooting_guides.

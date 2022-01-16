@@ -155,6 +155,8 @@ However, in the past, a lot of students have wanted to use Google Maps for their
 
 If you decide to use Google Maps, you should write code to open and read the key from a file gmap_api_key.txt in the local directory (the same as the example code in the lab).  **Please do NOT check in gmap_api_key.txt into GitHub!**  That is not a good idea, hopefully for obvious reasons.  When the grader runs your Jupyter Notebook, the grading scripts will clone the repo and copy in a gmap_api_key.txt file with a valid key in it.
 
+When you view your Jupiter Notebook in GitHub, it won't be able to login to Google Maps and the output cell will show as a small placeholder icon.  While it's NOT required, you may want to save an image of your Google Maps data visualizations and display them in a mark down cell, in addition to the code cell and output cell. You can come to office hours if you need help to do this.
+
 **Coding Guidelines**
 
 You may freely use any code from the labs.  
@@ -378,12 +380,12 @@ Data Visualizations Sales Specific Questions, Customer Specific Questions, Produ
 
 **Subjective Items 20%**
 
-Grader will evaluation the quality of the three executive summaries:
+Grader will evaluate the quality of the three executive summaries:
 * Holiday Analytics
 * Best Customer Analytics
 * Best Recommendations
 
-Here are the main scores and their criteria.  Grade may award scores in between if they feel a submission was in between.
+Here are the main scores and their criteria.  Grader may award scores in between if they feel a submission was in between.
 
 Above 15/20 is very hard and very rare to achieve.
 

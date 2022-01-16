@@ -1,5 +1,26 @@
 # Instructions for Labs for Week 02
 
+## Week 1's labs are prerequisite to Week 2's labs
+
+If you did not work through the week 1 labs, the week 2 labs will NOT work. 
+
+Week 2 needs all of the setup work done in week 1: creating the VM, starting and stopping the VM, connecting to the VM to get a Linux command line, making snapshots, making backups, downloading files, etc.   
+
+## Watching videos, FAQs, Troubleshooting Guides, etc.
+
+As we covered in week 1:
+
+* The lab videos will walk you through these instructions and explain them as it goes.  Attempting to just read the instructions for the labs without watching the videos will not be sufficient.  You will need to actually watch the videos and work through the labs using the videos.
+
+* Attempting to skip the concepts and business cases videos and skip directly to the labs will not be sufficient.  The labs assume that you have watched the concepts and business case videos.  They will reference these concepts and business cases, and if you are not familiar with them, the labs will not make much sense.
+
+* Certain tasks that are highly repetitve in nature will be found in how_to_guides.  Each how to guide has a link to a video at the top that will walk you through the how to guide.  Attempting to just read the instructions for the how to guides without watching the videos will not be sufficient.  You will need to actually watch the videos and work through the how to guides using the videos.
+
+* FAQ - remember to check the FAQs for frequently asked questions
+
+* Troubleshooting Guides - remember to check the troubleshooting guides if you run into any issues
+
+
 ## Review the ERD
 
 **GitHub => ucb_mids_w205_repo => labs => week_02 => sales_db_erd_data_dict.md**

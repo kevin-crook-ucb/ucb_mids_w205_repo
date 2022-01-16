@@ -1,5 +1,32 @@
 # Instructions for Labs for Week 01
 
+## Videos
+
+The videos for this lab are located in ISVC.  There are 3 types of videos in ISVC:
+* Concept - high level concepts for a technology without code
+* Business Case - examples of business cases of how to actually apply the technology to solve real world problems
+* Lab - desktop recordings to walk you through the labs
+
+The lab videos will walk you through these instructions and explain them as it goes.
+
+Attempting to just read the instructions for the labs without watching the videos will not be sufficient.  You will need to actually watch the videos and work through the labs using the videos.
+
+Attempting to skip the concepts and business cases videos and skip directly to the labs will not be sufficient.  The labs assume that you have watched the concepts and business case videos.  They will reference these concepts and business cases, and if you are not familiar with them, the labs will not make much sense.
+
+Certain tasks that are highly repetitve in nature will be found in how_to_guides.  Each how to guide has a link to a video at the top that will walk you through the how to guide.  Attempting to just read the instructions for the how to guides without watching the videos will not be sufficient.  You will need to actually watch the videos and work through the how to guides using the videos.
+
+## FAQ - Frequently asked questions
+
+We have a lot of students who are new to cloud based computing.  Here are some frequently asked questions students who are new to this have asked in the past:
+
+ucb_mids_w205_repo => frequently_asked_questions
+
+## Troubleshooting Guides 
+
+We have a lot of students who are new to cloud based computing.  Here are troubleshooting guides for issues that students new to the cloud have run into in the past:
+
+ucb_mids_w205_repo => troubleshooting_guides
+
 ## Lab: VM Setup for this Course
 
 This first lab will be atypical to most week's labs.  This lab will basically give you some "How To Guides" to go through.  Each "How To Guide" has its own video and instructions. 

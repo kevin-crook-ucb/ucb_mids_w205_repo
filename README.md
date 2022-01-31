@@ -117,12 +117,14 @@ Note: Subject to change.  Please check the slack channel and/or the ISVC meeting
 
 Monday
 * Crook (pooled) - 5:35 pm - 7:30 pm
+* Chakraverty (pooled) - 5:30 pm - 6:30 pm
 * Gupta - 5:30 pm - 6:30 pm
 
 Tuesday
 * Crook (pooled) - 5:35 pm - 7:30 pm
 
 Wednesday
+* Mehra (pooled) 12 noon - 1:00 pm
 * Reid - 6:00 pm - 6:50 pm
 
 Thursday
@@ -132,7 +134,7 @@ Friday
 * Ad hoc - check ISVC
 
 Saturday
-* Ad hoc - check ISVC
+* Chakraverty (pooled) - 10:00 am - 11:00 am
 
 Sunday
 * De Sola (pooled) - 10:00 am - 11:00 am

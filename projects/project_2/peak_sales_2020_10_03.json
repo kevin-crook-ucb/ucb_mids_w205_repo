@@ -1,0 +1,4643 @@
+{
+  "creator": "Peak Deliveries",
+  "timestamp": "2020-10-04 02:00:00",
+  "file_name": "peak_sales_2020_10_03.json",
+  "version": "17.11.7",
+  "legal": "Unauthorized use, duplication, or possession, blah, blah",
+  "sales": [
+    {
+      "sale_id": 5763728874,
+      "sale_date": "2020-10-03",
+      "sub_total": 12,
+      "tax": 0,
+      "total_amount": 12,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728404,
+        "first_name": "Darrelle",
+        "last_name": "Dohrmann",
+        "street": "46 Farwell Terrace",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94609"
+      },
+      "line_items": [
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729036,
+      "sale_date": "2020-10-03",
+      "sub_total": 72,
+      "tax": 0,
+      "total_amount": 72,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729309,
+        "first_name": "Moria",
+        "last_name": "Greenwood",
+        "street": "8803 Delaware Crossing",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 3,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728904,
+      "sale_date": "2020-10-03",
+      "sub_total": 24,
+      "tax": 0,
+      "total_amount": 24,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728508,
+        "first_name": "Josiah",
+        "last_name": "Hulett",
+        "street": "6755 Melby Plaza",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94612"
+      },
+      "line_items": [
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728973,
+      "sale_date": "2020-10-03",
+      "sub_total": 96,
+      "tax": 0,
+      "total_amount": 96,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728534,
+        "first_name": "Gayle",
+        "last_name": "MacGarrity",
+        "street": "286 Onsgard Center",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94703"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728757,
+      "sale_date": "2020-10-03",
+      "sub_total": 108,
+      "tax": 0,
+      "total_amount": 108,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729188,
+        "first_name": "Courtenay",
+        "last_name": "Shirrell",
+        "street": "75 West Park",
+        "city": "Emeryville",
+        "state": "CA",
+        "zip": "94608"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729051,
+      "sale_date": "2020-10-03",
+      "sub_total": 144,
+      "tax": 0,
+      "total_amount": 144,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729276,
+        "first_name": "Christian",
+        "last_name": "Anyene",
+        "street": "869 Transport Crossing",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94707"
+      },
+      "line_items": [
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 4,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314679,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 3,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729153,
+      "sale_date": "2020-10-03",
+      "sub_total": 24,
+      "tax": 0,
+      "total_amount": 24,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729242,
+        "first_name": "Linnell",
+        "last_name": "Barr",
+        "street": "521 Fallview Alley",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94602"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728608,
+      "sale_date": "2020-10-03",
+      "sub_total": 96,
+      "tax": 0,
+      "total_amount": 96,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728705,
+        "first_name": "Benedick",
+        "last_name": "Staneland",
+        "street": "3852 Laurel Park",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94704"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728696,
+      "sale_date": "2020-10-03",
+      "sub_total": 84,
+      "tax": 0,
+      "total_amount": 84,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729340,
+        "first_name": "Lanni",
+        "last_name": "Pickavant",
+        "street": "481 Moose Pass",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94609"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 3,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728768,
+      "sale_date": "2020-10-03",
+      "sub_total": 24,
+      "tax": 0,
+      "total_amount": 24,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729016,
+        "first_name": "Hyrum",
+        "last_name": "Knuckles",
+        "street": "86668 Spenser Terrace",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94618"
+      },
+      "line_items": [
+        {
+          "product_id": 42314679,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728685,
+      "sale_date": "2020-10-03",
+      "sub_total": 96,
+      "tax": 0,
+      "total_amount": 96,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729233,
+        "first_name": "Uriah",
+        "last_name": "Breache",
+        "street": "16452 Crowley Way",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94618"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314679,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 3,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728787,
+      "sale_date": "2020-10-03",
+      "sub_total": 84,
+      "tax": 0,
+      "total_amount": 84,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728640,
+        "first_name": "Jeff",
+        "last_name": "Cohane",
+        "street": "23 Kensington Center",
+        "city": "El Cerrito",
+        "state": "CA",
+        "zip": "94530"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729233,
+      "sale_date": "2020-10-03",
+      "sub_total": 36,
+      "tax": 0,
+      "total_amount": 36,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728406,
+        "first_name": "Sibelle",
+        "last_name": "Yakov",
+        "street": "2007 Warbler Pass",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94610"
+      },
+      "line_items": [
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729081,
+      "sale_date": "2020-10-03",
+      "sub_total": 24,
+      "tax": 0,
+      "total_amount": 24,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728831,
+        "first_name": "Aurilia",
+        "last_name": "Sand",
+        "street": "2187 Carpenter Pass",
+        "city": "El Cerrito",
+        "state": "CA",
+        "zip": "94530"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728425,
+      "sale_date": "2020-10-03",
+      "sub_total": 36,
+      "tax": 0,
+      "total_amount": 36,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728931,
+        "first_name": "Hube",
+        "last_name": "Byard",
+        "street": "712 Aberg Street",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94606"
+      },
+      "line_items": [
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728579,
+      "sale_date": "2020-10-03",
+      "sub_total": 48,
+      "tax": 0,
+      "total_amount": 48,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729206,
+        "first_name": "Ardyce",
+        "last_name": "Lauderdale",
+        "street": "483 Pearson Point",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94602"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728832,
+      "sale_date": "2020-10-03",
+      "sub_total": 24,
+      "tax": 0,
+      "total_amount": 24,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729081,
+        "first_name": "Armand",
+        "last_name": "Olyet",
+        "street": "48 Valley Edge Plaza",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "line_items": [
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728420,
+      "sale_date": "2020-10-03",
+      "sub_total": 24,
+      "tax": 0,
+      "total_amount": 24,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728511,
+        "first_name": "Saundra",
+        "last_name": "Ameer-Beg",
+        "street": "994 Vernon Center",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94708"
+      },
+      "line_items": [
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728543,
+      "sale_date": "2020-10-03",
+      "sub_total": 36,
+      "tax": 0,
+      "total_amount": 36,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729222,
+        "first_name": "Lulita",
+        "last_name": "Pessler",
+        "street": "176 Blue Bill Park Court",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94709"
+      },
+      "line_items": [
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728877,
+      "sale_date": "2020-10-03",
+      "sub_total": 108,
+      "tax": 0,
+      "total_amount": 108,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728936,
+        "first_name": "Roseann",
+        "last_name": "Coyish",
+        "street": "11707 American Ash Ter",
+        "city": "Orinda",
+        "state": "CA",
+        "zip": "94563"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 4,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314679,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728494,
+      "sale_date": "2020-10-03",
+      "sub_total": 48,
+      "tax": 0,
+      "total_amount": 48,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729012,
+        "first_name": "Lavena",
+        "last_name": "Toynbee",
+        "street": "37524 Hanover Junction",
+        "city": "Emeryville",
+        "state": "CA",
+        "zip": "94608"
+      },
+      "line_items": [
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729291,
+      "sale_date": "2020-10-03",
+      "sub_total": 84,
+      "tax": 0,
+      "total_amount": 84,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729193,
+        "first_name": "Baxie",
+        "last_name": "Sahnow",
+        "street": "224 Main Terrace",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94606"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314679,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728662,
+      "sale_date": "2020-10-03",
+      "sub_total": 48,
+      "tax": 0,
+      "total_amount": 48,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728797,
+        "first_name": "Cosmo",
+        "last_name": "Frude",
+        "street": "343 Redwing Pass",
+        "city": "Orinda",
+        "state": "CA",
+        "zip": "94563"
+      },
+      "line_items": [
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314679,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728428,
+      "sale_date": "2020-10-03",
+      "sub_total": 72,
+      "tax": 0,
+      "total_amount": 72,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729287,
+        "first_name": "Hali",
+        "last_name": "Ducker",
+        "street": "8 Orion Pass",
+        "city": "El Cerrito",
+        "state": "CA",
+        "zip": "94530"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728475,
+      "sale_date": "2020-10-03",
+      "sub_total": 48,
+      "tax": 0,
+      "total_amount": 48,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728401,
+        "first_name": "Dale",
+        "last_name": "Baldacchi",
+        "street": "937 Lotheville Place",
+        "city": "Orinda",
+        "state": "CA",
+        "zip": "94563"
+      },
+      "line_items": [
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728393,
+      "sale_date": "2020-10-03",
+      "sub_total": 48,
+      "tax": 0,
+      "total_amount": 48,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728674,
+        "first_name": "Melantha",
+        "last_name": "Golborn",
+        "street": "6140 North Field Alley",
+        "city": "Orinda",
+        "state": "CA",
+        "zip": "94563"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728447,
+      "sale_date": "2020-10-03",
+      "sub_total": 120,
+      "tax": 0,
+      "total_amount": 120,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728524,
+        "first_name": "Danyette",
+        "last_name": "Jillett",
+        "street": "20808 Kipling Plaza",
+        "city": "Emeryville",
+        "state": "CA",
+        "zip": "94608"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 3,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729200,
+      "sale_date": "2020-10-03",
+      "sub_total": 12,
+      "tax": 0,
+      "total_amount": 12,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729342,
+        "first_name": "Kari",
+        "last_name": "Charon",
+        "street": "13771 Basil Road",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94606"
+      },
+      "line_items": [
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728427,
+      "sale_date": "2020-10-03",
+      "sub_total": 24,
+      "tax": 0,
+      "total_amount": 24,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728916,
+        "first_name": "Nissa",
+        "last_name": "Alman",
+        "street": "6 Becker Terrace",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94606"
+      },
+      "line_items": [
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729033,
+      "sale_date": "2020-10-03",
+      "sub_total": 84,
+      "tax": 0,
+      "total_amount": 84,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728804,
+        "first_name": "Greggory",
+        "last_name": "Elstob",
+        "street": "736 Leroy Hill",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94609"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314679,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728865,
+      "sale_date": "2020-10-03",
+      "sub_total": 72,
+      "tax": 0,
+      "total_amount": 72,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729246,
+        "first_name": "Candy",
+        "last_name": "Ben",
+        "street": "1479 Bartillon Plaza",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94602"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 3,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314679,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728580,
+      "sale_date": "2020-10-03",
+      "sub_total": 12,
+      "tax": 0,
+      "total_amount": 12,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729292,
+        "first_name": "Sawyere",
+        "last_name": "Ballintyne",
+        "street": "2659 Northport Crossing",
+        "city": "Albany",
+        "state": "CA",
+        "zip": "94706"
+      },
+      "line_items": [
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729211,
+      "sale_date": "2020-10-03",
+      "sub_total": 48,
+      "tax": 0,
+      "total_amount": 48,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729247,
+        "first_name": "Glynis",
+        "last_name": "Banker",
+        "street": "65 South Junction",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94606"
+      },
+      "line_items": [
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728432,
+      "sale_date": "2020-10-03",
+      "sub_total": 96,
+      "tax": 0,
+      "total_amount": 96,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728675,
+        "first_name": "Larissa",
+        "last_name": "Ringer",
+        "street": "967 Dexter Alley",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94610"
+      },
+      "line_items": [
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 3,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314781,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729085,
+      "sale_date": "2020-10-03",
+      "sub_total": 96,
+      "tax": 0,
+      "total_amount": 96,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728639,
+        "first_name": "Jess",
+        "last_name": "Gillie",
+        "street": "3 Menomonie Trail",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94607"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 3,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729212,
+      "sale_date": "2020-10-03",
+      "sub_total": 48,
+      "tax": 0,
+      "total_amount": 48,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729191,
+        "first_name": "Eleni",
+        "last_name": "Jansen",
+        "street": "66 Bartelt Hill",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94607"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728985,
+      "sale_date": "2020-10-03",
+      "sub_total": 96,
+      "tax": 0,
+      "total_amount": 96,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728932,
+        "first_name": "Cristabel",
+        "last_name": "Keyme",
+        "street": "64 Carberry Lane",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94704"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 4,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728661,
+      "sale_date": "2020-10-03",
+      "sub_total": 72,
+      "tax": 0,
+      "total_amount": 72,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728609,
+        "first_name": "Jo ann",
+        "last_name": "Ambrogi",
+        "street": "977 Delaware Plaza",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94611"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728371,
+      "sale_date": "2020-10-03",
+      "sub_total": 48,
+      "tax": 0,
+      "total_amount": 48,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728812,
+        "first_name": "Jerrie",
+        "last_name": "Selland",
+        "street": "68983 Arizona Way",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94610"
+      },
+      "line_items": [
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729129,
+      "sale_date": "2020-10-03",
+      "sub_total": 36,
+      "tax": 0,
+      "total_amount": 36,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728856,
+        "first_name": "Clyve",
+        "last_name": "Humonds",
+        "street": "22 Brent Wood Hill",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94709"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314679,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728809,
+      "sale_date": "2020-10-03",
+      "sub_total": 84,
+      "tax": 0,
+      "total_amount": 84,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728463,
+        "first_name": "Barny",
+        "last_name": "Cheal",
+        "street": "8945 Vera Lane",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94602"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 3,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728684,
+      "sale_date": "2020-10-03",
+      "sub_total": 24,
+      "tax": 0,
+      "total_amount": 24,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729204,
+        "first_name": "Sherie",
+        "last_name": "Eassom",
+        "street": "8 Everett Terrace",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94707"
+      },
+      "line_items": [
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728638,
+      "sale_date": "2020-10-03",
+      "sub_total": 48,
+      "tax": 0,
+      "total_amount": 48,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728366,
+        "first_name": "Correna",
+        "last_name": "Aldus",
+        "street": "62 Anzinger Court",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94609"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729066,
+      "sale_date": "2020-10-03",
+      "sub_total": 24,
+      "tax": 0,
+      "total_amount": 24,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729244,
+        "first_name": "Karmen",
+        "last_name": "Wick",
+        "street": "107 La Follette Lane",
+        "city": "Emeryville",
+        "state": "CA",
+        "zip": "94608"
+      },
+      "line_items": [
+        {
+          "product_id": 42314679,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728633,
+      "sale_date": "2020-10-03",
+      "sub_total": 36,
+      "tax": 0,
+      "total_amount": 36,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728582,
+        "first_name": "Melamie",
+        "last_name": "Woolfall",
+        "street": "3519 Sloan Avenue",
+        "city": "El Cerrito",
+        "state": "CA",
+        "zip": "94530"
+      },
+      "line_items": [
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314781,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728693,
+      "sale_date": "2020-10-03",
+      "sub_total": 96,
+      "tax": 0,
+      "total_amount": 96,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728367,
+        "first_name": "Marjorie",
+        "last_name": "Ventura",
+        "street": "321 3rd Court",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94607"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 3,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314679,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 3,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728604,
+      "sale_date": "2020-10-03",
+      "sub_total": 84,
+      "tax": 0,
+      "total_amount": 84,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728683,
+        "first_name": "Jess",
+        "last_name": "Tedman",
+        "street": "7800 Shasta Hill",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94611"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 4,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314679,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729330,
+      "sale_date": "2020-10-03",
+      "sub_total": 12,
+      "tax": 0,
+      "total_amount": 12,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729229,
+        "first_name": "Amber",
+        "last_name": "Peniello",
+        "street": "1537 Kipling Drive",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "line_items": [
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728712,
+      "sale_date": "2020-10-03",
+      "sub_total": 132,
+      "tax": 0,
+      "total_amount": 132,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728996,
+        "first_name": "Hilary",
+        "last_name": "Ofer",
+        "street": "99351 Aberg Trail",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94606"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 3,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 5,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728736,
+      "sale_date": "2020-10-03",
+      "sub_total": 72,
+      "tax": 0,
+      "total_amount": 72,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728875,
+        "first_name": "D'arcy",
+        "last_name": "Lashley",
+        "street": "1371 Esch Lane",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94607"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 3,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728864,
+      "sale_date": "2020-10-03",
+      "sub_total": 108,
+      "tax": 0,
+      "total_amount": 108,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729178,
+        "first_name": "Rutledge",
+        "last_name": "Hellwing",
+        "street": "606 Gulf Plz",
+        "city": "El Cerrito",
+        "state": "CA",
+        "zip": "94530"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314781,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728451,
+      "sale_date": "2020-10-03",
+      "sub_total": 36,
+      "tax": 0,
+      "total_amount": 36,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728648,
+        "first_name": "Babette",
+        "last_name": "Patifield",
+        "street": "818 Dryden Circle",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94702"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729286,
+      "sale_date": "2020-10-03",
+      "sub_total": 144,
+      "tax": 0,
+      "total_amount": 144,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728826,
+        "first_name": "Kandy",
+        "last_name": "Littlekit",
+        "street": "64906 Rusk Road",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94610"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314679,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 3,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 3,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728545,
+      "sale_date": "2020-10-03",
+      "sub_total": 96,
+      "tax": 0,
+      "total_amount": 96,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729037,
+        "first_name": "Staci",
+        "last_name": "Edgeworth",
+        "street": "24783 Michigan Alley",
+        "city": "Emeryville",
+        "state": "CA",
+        "zip": "94608"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314781,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729271,
+      "sale_date": "2020-10-03",
+      "sub_total": 96,
+      "tax": 0,
+      "total_amount": 96,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728452,
+        "first_name": "Adelice",
+        "last_name": "Cosyns",
+        "street": "95594 Kennedy Alley",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94618"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314679,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729243,
+      "sale_date": "2020-10-03",
+      "sub_total": 120,
+      "tax": 0,
+      "total_amount": 120,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729005,
+        "first_name": "Murielle",
+        "last_name": "Robken",
+        "street": "32 Sugar Park",
+        "city": "Albany",
+        "state": "CA",
+        "zip": "94706"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 5,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314679,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729155,
+      "sale_date": "2020-10-03",
+      "sub_total": 12,
+      "tax": 0,
+      "total_amount": 12,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729175,
+        "first_name": "Kay",
+        "last_name": "Cantopher",
+        "street": "307 Merry Center",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94710"
+      },
+      "line_items": [
+        {
+          "product_id": 42314679,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729028,
+      "sale_date": "2020-10-03",
+      "sub_total": 132,
+      "tax": 0,
+      "total_amount": 132,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728510,
+        "first_name": "Mordecai",
+        "last_name": "Matthius",
+        "street": "49269 Arizona Junction",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94610"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 4,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729097,
+      "sale_date": "2020-10-03",
+      "sub_total": 108,
+      "tax": 0,
+      "total_amount": 108,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728750,
+        "first_name": "Hermine",
+        "last_name": "Tompkinson",
+        "street": "140 Roth Trail",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94709"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 4,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729313,
+      "sale_date": "2020-10-03",
+      "sub_total": 84,
+      "tax": 0,
+      "total_amount": 84,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728402,
+        "first_name": "Kalli",
+        "last_name": "Kemel",
+        "street": "18373 Golf View Pass",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94702"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729209,
+      "sale_date": "2020-10-03",
+      "sub_total": 72,
+      "tax": 0,
+      "total_amount": 72,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729288,
+        "first_name": "Levy",
+        "last_name": "MacIan",
+        "street": "4 Bonner Plaza",
+        "city": "El Cerrito",
+        "state": "CA",
+        "zip": "94530"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 3,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728751,
+      "sale_date": "2020-10-03",
+      "sub_total": 72,
+      "tax": 0,
+      "total_amount": 72,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728735,
+        "first_name": "Kalie",
+        "last_name": "Troppmann",
+        "street": "2592 Fair Oaks Terrace",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94606"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728948,
+      "sale_date": "2020-10-03",
+      "sub_total": 132,
+      "tax": 0,
+      "total_amount": 132,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729223,
+        "first_name": "Caralie",
+        "last_name": "Annies",
+        "street": "1516 Schurz Point",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94602"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 4,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314679,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 3,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729016,
+      "sale_date": "2020-10-03",
+      "sub_total": 132,
+      "tax": 0,
+      "total_amount": 132,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728886,
+        "first_name": "Leland",
+        "last_name": "Santhouse",
+        "street": "28744 Northwestern Avenue",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94612"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314679,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 5,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728624,
+      "sale_date": "2020-10-03",
+      "sub_total": 108,
+      "tax": 0,
+      "total_amount": 108,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728360,
+        "first_name": "Luelle",
+        "last_name": "Cauldwell",
+        "street": "64 Marquette Park",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94606"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314781,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728761,
+      "sale_date": "2020-10-03",
+      "sub_total": 24,
+      "tax": 0,
+      "total_amount": 24,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728792,
+        "first_name": "Dominic",
+        "last_name": "Presley",
+        "street": "65 South Road",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94607"
+      },
+      "line_items": [
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729122,
+      "sale_date": "2020-10-03",
+      "sub_total": 84,
+      "tax": 0,
+      "total_amount": 84,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728538,
+        "first_name": "Giacomo",
+        "last_name": "Erangy",
+        "street": "31983 Lillian Trail",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94606"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728602,
+      "sale_date": "2020-10-03",
+      "sub_total": 60,
+      "tax": 0,
+      "total_amount": 60,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728469,
+        "first_name": "Briano",
+        "last_name": "Vedeshkin",
+        "street": "112 Vernon Parkway",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94707"
+      },
+      "line_items": [
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 3,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729279,
+      "sale_date": "2020-10-03",
+      "sub_total": 96,
+      "tax": 0,
+      "total_amount": 96,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728917,
+        "first_name": "Karim",
+        "last_name": "Pelerin",
+        "street": "48 Montana Pass",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94702"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728949,
+      "sale_date": "2020-10-03",
+      "sub_total": 12,
+      "tax": 0,
+      "total_amount": 12,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728978,
+        "first_name": "Basile",
+        "last_name": "Wrassell",
+        "street": "59 Burrows Parkway",
+        "city": "El Cerrito",
+        "state": "CA",
+        "zip": "94530"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729031,
+      "sale_date": "2020-10-03",
+      "sub_total": 24,
+      "tax": 0,
+      "total_amount": 24,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728473,
+        "first_name": "Melisenda",
+        "last_name": "Lemonby",
+        "street": "66 Monica Crossing",
+        "city": "Emeryville",
+        "state": "CA",
+        "zip": "94608"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728980,
+      "sale_date": "2020-10-03",
+      "sub_total": 108,
+      "tax": 0,
+      "total_amount": 108,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729213,
+        "first_name": "Honina",
+        "last_name": "Philson",
+        "street": "28 Clarendon Plaza",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94702"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314679,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 3,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728921,
+      "sale_date": "2020-10-03",
+      "sub_total": 48,
+      "tax": 0,
+      "total_amount": 48,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729194,
+        "first_name": "Nicky",
+        "last_name": "Haley",
+        "street": "88424 Warrior Lane",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94602"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728740,
+      "sale_date": "2020-10-03",
+      "sub_total": 48,
+      "tax": 0,
+      "total_amount": 48,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728908,
+        "first_name": "Tanitansy",
+        "last_name": "Dorian",
+        "street": "66140 Sauthoff Lane",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94709"
+      },
+      "line_items": [
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729280,
+      "sale_date": "2020-10-03",
+      "sub_total": 72,
+      "tax": 0,
+      "total_amount": 72,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729104,
+        "first_name": "I",
+        "last_name": "Odunniom",
+        "street": "4243 Sugar Park",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94702"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728894,
+      "sale_date": "2020-10-03",
+      "sub_total": 144,
+      "tax": 0,
+      "total_amount": 144,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728710,
+        "first_name": "Matthieu",
+        "last_name": "Cosbey",
+        "street": "9957 Jenifer Circle",
+        "city": "El Cerrito",
+        "state": "CA",
+        "zip": "94530"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 4,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728919,
+      "sale_date": "2020-10-03",
+      "sub_total": 120,
+      "tax": 0,
+      "total_amount": 120,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728544,
+        "first_name": "Fowler",
+        "last_name": "McCaskill",
+        "street": "9604 Northwestern Point",
+        "city": "Albany",
+        "state": "CA",
+        "zip": "94706"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314679,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 3,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728905,
+      "sale_date": "2020-10-03",
+      "sub_total": 72,
+      "tax": 0,
+      "total_amount": 72,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729208,
+        "first_name": "Clemens",
+        "last_name": "McAloren",
+        "street": "12532 Faragut Lane",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94704"
+      },
+      "line_items": [
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728800,
+      "sale_date": "2020-10-03",
+      "sub_total": 24,
+      "tax": 0,
+      "total_amount": 24,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728467,
+        "first_name": "Ximenez",
+        "last_name": "de Chastelain",
+        "street": "711 Novick Terrace",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94710"
+      },
+      "line_items": [
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728722,
+      "sale_date": "2020-10-03",
+      "sub_total": 72,
+      "tax": 0,
+      "total_amount": 72,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729149,
+        "first_name": "Stanton",
+        "last_name": "Guymer",
+        "street": "147 Maple Street",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94611"
+      },
+      "line_items": [
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314679,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728749,
+      "sale_date": "2020-10-03",
+      "sub_total": 84,
+      "tax": 0,
+      "total_amount": 84,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729038,
+        "first_name": "Antonie",
+        "last_name": "Jakubski",
+        "street": "262 Manufacturers Road",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94704"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314781,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729014,
+      "sale_date": "2020-10-03",
+      "sub_total": 48,
+      "tax": 0,
+      "total_amount": 48,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729232,
+        "first_name": "Lisette",
+        "last_name": "Marrington",
+        "street": "1 Glacier Hill Junction",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94602"
+      },
+      "line_items": [
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314781,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728698,
+      "sale_date": "2020-10-03",
+      "sub_total": 24,
+      "tax": 0,
+      "total_amount": 24,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729051,
+        "first_name": "Herold",
+        "last_name": "Hillum",
+        "street": "3 Sachtjen Hill",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94606"
+      },
+      "line_items": [
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728556,
+      "sale_date": "2020-10-03",
+      "sub_total": 48,
+      "tax": 0,
+      "total_amount": 48,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729103,
+        "first_name": "Justino",
+        "last_name": "Cayton",
+        "street": "3563 Chinook Street",
+        "city": "Emeryville",
+        "state": "CA",
+        "zip": "94608"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728938,
+      "sale_date": "2020-10-03",
+      "sub_total": 12,
+      "tax": 0,
+      "total_amount": 12,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729316,
+        "first_name": "Lin",
+        "last_name": "Mortell",
+        "street": "92 Oak Alley",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94612"
+      },
+      "line_items": [
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728742,
+      "sale_date": "2020-10-03",
+      "sub_total": 96,
+      "tax": 0,
+      "total_amount": 96,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729000,
+        "first_name": "Sebastiano",
+        "last_name": "Bains",
+        "street": "792 Schurz Parkway",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94612"
+      },
+      "line_items": [
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 3,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728964,
+      "sale_date": "2020-10-03",
+      "sub_total": 24,
+      "tax": 0,
+      "total_amount": 24,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728455,
+        "first_name": "Francesco",
+        "last_name": "Poter",
+        "street": "46 Chinook Lane",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94607"
+      },
+      "line_items": [
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728930,
+      "sale_date": "2020-10-03",
+      "sub_total": 24,
+      "tax": 0,
+      "total_amount": 24,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728427,
+        "first_name": "Myrtia",
+        "last_name": "Charlot",
+        "street": "448 Rowland Road",
+        "city": "El Cerrito",
+        "state": "CA",
+        "zip": "94530"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728488,
+      "sale_date": "2020-10-03",
+      "sub_total": 36,
+      "tax": 0,
+      "total_amount": 36,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728892,
+        "first_name": "Brittni",
+        "last_name": "Bubb",
+        "street": "37715 Larry Way",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94710"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728679,
+      "sale_date": "2020-10-03",
+      "sub_total": 120,
+      "tax": 0,
+      "total_amount": 120,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728758,
+        "first_name": "Cecelia",
+        "last_name": "Meece",
+        "street": "33 Westend Point",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94703"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 3,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 4,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728666,
+      "sale_date": "2020-10-03",
+      "sub_total": 120,
+      "tax": 0,
+      "total_amount": 120,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729022,
+        "first_name": "Liuka",
+        "last_name": "Tancock",
+        "street": "68308 Mcbride Road",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94703"
+      },
+      "line_items": [
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 6,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729182,
+      "sale_date": "2020-10-03",
+      "sub_total": 48,
+      "tax": 0,
+      "total_amount": 48,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728373,
+        "first_name": "Sunshine",
+        "last_name": "Grisard",
+        "street": "149 Laurel Terrace",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94612"
+      },
+      "line_items": [
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314679,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314781,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728927,
+      "sale_date": "2020-10-03",
+      "sub_total": 72,
+      "tax": 0,
+      "total_amount": 72,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728568,
+        "first_name": "Valina",
+        "last_name": "Spring",
+        "street": "119 Sachtjen Junction",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94702"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 3,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314783,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729096,
+      "sale_date": "2020-10-03",
+      "sub_total": 48,
+      "tax": 0,
+      "total_amount": 48,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728990,
+        "first_name": "Claire",
+        "last_name": "Mebes",
+        "street": "358 Oxford Road",
+        "city": "Albany",
+        "state": "CA",
+        "zip": "94706"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 3,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729268,
+      "sale_date": "2020-10-03",
+      "sub_total": 84,
+      "tax": 0,
+      "total_amount": 84,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728901,
+        "first_name": "Freddy",
+        "last_name": "Mumford",
+        "street": "6 Transport Lane",
+        "city": "Orinda",
+        "state": "CA",
+        "zip": "94563"
+      },
+      "line_items": [
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314679,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314780,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314784,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763729237,
+      "sale_date": "2020-10-03",
+      "sub_total": 60,
+      "tax": 0,
+      "total_amount": 60,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3729019,
+        "first_name": "Arv",
+        "last_name": "Doret",
+        "street": "2120 Mesta Circle",
+        "city": "Emeryville",
+        "state": "CA",
+        "zip": "94608"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        }
+      ]
+    },
+    {
+      "sale_id": 5763728673,
+      "sale_date": "2020-10-03",
+      "sub_total": 48,
+      "tax": 0,
+      "total_amount": 48,
+      "pickup_from": {
+        "location_id": 12573,
+        "name": "Acme Gourmet Meals",
+        "street": "3000 Telegraph Ave",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94705"
+      },
+      "deliver_to": {
+        "customer_id": 3728691,
+        "first_name": "Eula",
+        "last_name": "Dewair",
+        "street": "3 Crownhardt Road",
+        "city": "Albany",
+        "state": "CA",
+        "zip": "94706"
+      },
+      "line_items": [
+        {
+          "product_id": 42314677,
+          "price": 12,
+          "quantity": 2,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314678,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        },
+        {
+          "product_id": 42314782,
+          "price": 12,
+          "quantity": 1,
+          "taxable": "N"
+        }
+      ]
+    }
+  ]
+}

@@ -10,6 +10,8 @@
 
 * Double check that the security group has port 8888 in the inbound firewall rules.
 
+* Double check the ULR and make sure it has port 8888 in it.  If it has 8889, 8890, 8891, etc. that means that you have already have a Jupyter Notebook server running.  Stop the JN server (or servers) that are not running on 8888.  Connect to the one running 8888.
+
 * If possible, slack your URL to someone else and see if they can get in.  If they can get in, it means the issue is with your firewall:
 
   * Are you using a computer at work?  They may have blocked access to AWS or access to port 8888 in their firewall rules.  Check with your IT department to see if they will be willing to open access for you.

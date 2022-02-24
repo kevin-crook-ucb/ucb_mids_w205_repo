@@ -238,11 +238,7 @@ Each week's asynch assessments are due prior to that week's class start time.  (
 
 ## Readings
 
-Right now, we have not been able to find suitable readings for this course.  The challenge is that most reading for topics included in this course are at an undergraduate upper division computer science level.  They assume students are well versed in all the computer science terminology and theory. Most academic papers assume graduate level computer science knowledge and are highly theoretical.
-
-We have tried using O'Reilly technical books, but have faced some issues there as well.  The Berkeley library only subscribes to the lowest level of O'Reilly and most of the readings would be from books that are behind a paywall.  Since we cover 10 or more different technologies, it would result in students buying 10 books at $40 to $60 each.  Also, it's not practical to have students read 10 or more technical books in a 14 week period.  We have tried pulling relevant chapters out, but it's really hard to understand a chapter pulled out of book as they will often refer to knowledge presented in earlier chapters.  
-
-We are currently exploring industry white papers to see if there are any suitable papers there.
+Please see the directory readings for more information about the readings for this course.
 
 ## FAQ and Troubleshooting Guides
 

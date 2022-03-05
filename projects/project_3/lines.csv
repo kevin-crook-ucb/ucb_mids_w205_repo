@@ -1,0 +1,115 @@
+line,sequence,station
+blue,1,Dublin
+blue,2,West Dublin
+blue,3,Castro Valley
+blue,4,Bay Fair
+blue,5,San Leandro
+blue,6,Coliseum
+blue,7,Fruitvale
+blue,8,Lake Merritt
+blue,9,West Oakland
+blue,10,Embarcadero
+blue,11,Montgomery Street
+blue,12,Powell Street
+blue,13,Civic Center
+blue,14,16th Street Mission
+blue,15,24th Street Mission
+blue,16,Glen Park
+blue,17,Balboa Park
+blue,18,Daly City
+gray,1,OAK
+gray,2,Coliseum
+green,1,Berryessa
+green,2,Milpitas
+green,3,Warm Springs
+green,4,Fremont
+green,5,Union City
+green,6,South Hayward
+green,7,Hayward
+green,8,Bay Fair
+green,9,San Leandro
+green,10,Coliseum
+green,11,Fruitvale
+green,12,Lake Merritt
+green,13,West Oakland
+green,14,Embarcadero
+green,15,Montgomery Street
+green,16,Powell Street
+green,17,Civic Center
+green,18,16th Street Mission
+green,19,24th Street Mission
+green,20,Glen Park
+green,21,Balboa Park
+green,22,Daly City
+orange,1,Richmond
+orange,2,El Cerrito del Norte
+orange,3,El Cerrito Plaza
+orange,4,North Berkeley
+orange,5,Downtown Berkeley
+orange,6,Ashby
+orange,7,MacArthur
+orange,8,19th Street
+orange,9,12th Street
+orange,10,Lake Merritt
+orange,11,Fruitvale
+orange,12,Coliseum
+orange,13,San Leandro
+orange,14,Bay Fair
+orange,15,Hayward
+orange,16,South Hayward
+orange,17,Union City
+orange,18,Fremont
+orange,19,Warm Springs
+orange,20,Milpitas
+orange,21,Berryessa
+red,1,Richmond
+red,2,El Cerrito del Norte
+red,3,El Cerrito Plaza
+red,4,North Berkeley
+red,5,Downtown Berkeley
+red,6,Ashby
+red,7,MacArthur
+red,8,19th Street
+red,9,12th Street
+red,10,West Oakland
+red,11,Embarcadero
+red,12,Montgomery Street
+red,13,Powell Street
+red,14,Civic Center
+red,15,16th Street Mission
+red,16,24th Street Mission
+red,17,Glen Park
+red,18,Balboa Park
+red,19,Daly City
+red,20,Colma
+red,21,South San Francisco
+red,22,San Bruno
+red,23,Millbrae
+red,24,SFO
+yellow,1,Antioch
+yellow,2,Pittsburg Center
+yellow,3,Pittsburg
+yellow,4,North Concord
+yellow,5,Concord
+yellow,6,Pleasant Hill
+yellow,7,Walnut Creek
+yellow,8,Lafayette
+yellow,9,Orinda
+yellow,10,Rockridge
+yellow,11,MacArthur
+yellow,12,19th Street
+yellow,13,12th Street
+yellow,14,West Oakland
+yellow,15,Embarcadero
+yellow,16,Montgomery Street
+yellow,17,Powell Street
+yellow,18,Civic Center
+yellow,19,16th Street Mission
+yellow,20,24th Street Mission
+yellow,21,Glen Park
+yellow,22,Balboa Park
+yellow,23,Daly City
+yellow,24,Colma
+yellow,25,South San Francisco
+yellow,26,San Bruno
+yellow,27,SFO

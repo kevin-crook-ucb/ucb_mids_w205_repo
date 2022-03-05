@@ -1,0 +1,52 @@
+station_1,station_2,travel_time
+12th Street,19th Street,120
+12th Street,Lake Merritt,180
+12th Street,West Oakland,300
+16th Street Mission,24th Street Mission,120
+16th Street Mission,Civic Center,180
+19th Street,MacArthur,180
+24th Street Mission,Glen Park,180
+Antioch,Pittsburg Center,420
+Ashby,Downtown Berkeley,180
+Ashby,MacArthur,240
+Balboa Park,Daly City,240
+Balboa Park,Glen Park,120
+Bay Fair,Castro Valley,240
+Bay Fair,Hayward,240
+Bay Fair,San Leandro,240
+Berryessa,Milpitas,300
+Castro Valley,West Dublin,600
+Civic Center,Powell Street,60
+Coliseum,Fruitvale,240
+Coliseum,OAK,480
+Coliseum,San Leandro,240
+Colma,Daly City,240
+Colma,South San Francisco,180
+Concord,North Concord,180
+Concord,Pleasant Hill,360
+Downtown Berkeley,North Berkeley,120
+Dublin,West Dublin,180
+El Cerrito Plaza,El Cerrito del Norte,180
+El Cerrito Plaza,North Berkeley,180
+El Cerrito del Norte,Richmond,300
+Embarcadero,Montgomery Street,60
+Embarcadero,West Oakland,420
+Fremont,Union City,300
+Fremont,Warm Springs,360
+Fruitvale,Lake Merritt,300
+Hayward,South Hayward,240
+Lafayette,Orinda,300
+Lafayette,Walnut Creek,300
+Lake Merritt,West Oakland,360
+MacArthur,Rockridge,240
+Millbrae,SFO,300
+Millbrae,San Bruno,420
+Milpitas,Warm Springs,540
+Montgomery Street,Powell Street,120
+North Concord,Pittsburg,360
+Orinda,Rockridge,300
+Pittsburg,Pittsburg Center,600
+Pleasant Hill,Walnut Creek,120
+SFO,San Bruno,240
+San Bruno,South San Francisco,240
+South Hayward,Union City,300

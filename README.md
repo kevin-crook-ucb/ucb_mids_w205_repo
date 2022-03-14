@@ -71,11 +71,13 @@ Current time for US time zones, including Pacific: https://time.gov
 * Week 10 - NoSQL Key-Value Databases
   * Monday 3/7/2022 to Sunday 3/13/2022
   * Due: week 10 asynch assessment before synch class starts
+  * Reminder: project 3 GitHub repo deadline items should be completed in 3 weeks (counting spring break), 2 class weeks
   * Reminder: project 3 coding part is due in 4 weeks (counting spring break), 3 class weeks
   * Reminder: project 3 presentation part is due in 5 weeks (counting spring break), 4 class weeks
 * Week 11 - Web APIs, Part I
   * Monday 3/14/2022 to Sunday 3/18/2022
   * Due: week 11 asynch assessment before synch class starts
+  * Reminder: project 3 GitHub repo deadline items should be completed in 2 weeks (counting spring break), 1 class week
   * Reminder: project 3 coding part is due in 3 weeks (counting spring break), 2 class weeks
   * Reminder: project 3 presentation part is due in 4 weeks (counting spring break), 3 class weeks
 * Spring Break 
@@ -86,13 +88,14 @@ Current time for US time zones, including Pacific: https://time.gov
 * Week 12 - Web APIs, Part II
   * Monday 3/28/2022 to Sunday 4/3/2022
   * Due: week 12 asynch assessment before synch class starts
+  * Reminder: project 3 GitHub repo deadline items should be completed by 11:59 pm Pacific on the day of your scheduled section synch class meeting
   * Reminder: project 3 coding part is due in 1 week
   * Reminder: project 3 presentation part is due in 2 weeks
 * Week 13 - Enterprise Message Queues, Data Lakes, and Serverless SQL
   * Monday 4/4/2022 to Sunday 4/10/2022
   * Due: week 13 asynch assessment before synch class starts
   * Due: project 3 coding part at 11:59 pm Pacific on the day of your scheduled section synch class meeting
-  * Reminder: project 3 presentation part is due in 2 weeks
+  * Reminder: project 3 presentation part is due in 1 week
 * Week 14 - Business Intelligence and Data Warehousing
   * Monday 4/11/2022 to Saturday 4/16/2022
   * Due: week 14 asynch assessment before synch class starts 

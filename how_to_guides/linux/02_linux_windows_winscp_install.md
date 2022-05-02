@@ -1,3 +1,5 @@
+# Moved to bCourses - all of the content in this page has been moved to bCourses, and as of April 15, 2022, is no longer being updated.  Please use bCourses for the most recent, up to date version. This repo will be deleted once we are sure we have moved everything to bCourses correctly.
+
 # How to Guide: Linux - Installing WinSCP for Windows Users
 
 Video: https://kevincrook.com/ucb/mids/w205/how_to_guides/linux/02_linux_windows_winscp_install.mp4

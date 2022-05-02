@@ -1,6 +1,6 @@
 # Moved to bCourses - all of the content in this page has been moved to bCourses, and as of April 15, 2022, is no longer being updated.  Please use bCourses for the most recent, up to date version. This repo will be deleted once we are sure we have moved everything to bCourses correctly.
 
-# Additionally - we are going to be making substantial changes to project 1 based on feedback from students from the Spring 2022 semester.  Please wait until the new version of this project is given before starting on it.
+# Additionally - we are going to be making substantial changes to project 3 based on feedback from students from the Spring 2022 semester.  Please wait until the new version of this project is given before starting on it.
 
 # Project 3 Instructions
 

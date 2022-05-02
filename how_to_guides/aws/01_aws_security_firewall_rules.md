@@ -1,3 +1,5 @@
+# Moved to bCourses - all of the content in this page has been moved to bCourses, and as of April 15, 2022, is no longer being updated.  Please use bCourses for the most recent, up to date version. This repo will be deleted once we are sure we have moved everything to bCourses correctly.
+
 # How to Guide: AWS - Creating a Security Group and Adding Firewall Rules to the Security Group
 
 Video: https://kevincrook.com/ucb/mids/w205/how_to_guides/aws/01_aws_security_firewall_rules.mp4

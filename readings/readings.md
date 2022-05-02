@@ -1,3 +1,5 @@
+# Moved to bCourses - all of the content in this page has been moved to bCourses, and as of April 15, 2022, is no longer being updated.  Please use bCourses for the most recent, up to date version. This repo will be deleted once we are sure we have moved everything to bCourses correctly.
+
 # Readings for UC Berkeley, MIDS, w205 - Fundamentals of Data Engineering
 
 Right now, we have not been able to find suitable readings for this course.  The challenge is that most reading for topics included in this course are at an undergraduate upper division computer science level.  They assume students are well versed in all the computer science terminology and theory. Most academic papers assume graduate level computer science knowledge and are highly theoretical.

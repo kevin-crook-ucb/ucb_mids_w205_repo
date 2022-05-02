@@ -1,3 +1,5 @@
+# Moved to bCourses - all of the content in this page has been moved to bCourses, and as of April 15, 2022, is no longer being updated.  Please use bCourses for the most recent, up to date version. This repo will be deleted once we are sure we have moved everything to bCourses correctly.
+
 # How to Guide: AWS - Create (Launch) a Virtual Machine (VM) from the w205 Amazon Machine Image (AMI)
 
 Video: https://kevincrook.com/ucb/mids/w205/how_to_guides/aws/02_aws_create_vm.mp4

@@ -1,3 +1,7 @@
+# Moved to bCourses - all of the content in this page has been moved to bCourses, and as of April 15, 2022, is no longer being updated.  Please use bCourses for the most recent, up to date version. This repo will be deleted once we are sure we have moved everything to bCourses correctly.
+
+# Additional note - the lab for week 01 has been moved to week 02 starting Summer 2022.  
+
 # Instructions for Labs for Week 01
 
 ## Videos
